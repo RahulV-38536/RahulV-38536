@@ -6,7 +6,8 @@ Software Engineer
 - 👯 I have completed my internship in "Cloud Computing with AWS services"
 - 🤔 I have done a virtual job simulation internship program conducted by PwC on Microsoft Power BI.
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rahulvenkatesh38536@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+-   contact number: 9739742928  mail to: rahulvenkatesh38536@gmail.com
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-v-b391b9250)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
