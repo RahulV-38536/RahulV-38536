@@ -12,7 +12,6 @@ operations through effective collaboration with cross-functional teams.
 within defined SLAs using ServiceNow.
 – Manage escalation calls and critical SEV1/SEV2 incidents, coordinating with cross-functional teams (Network, Server,
 DBA, Storage, Development) to ensure minimal downtime.
-
 – Perform testing of client application during Server migrations, patching, and deployment activities.
 
 - 👯 I have completed my courses in "Cloud Computing with AWS Services- Pralotech Solutions LLP, 
