@@ -2,10 +2,17 @@
 
 Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🌱 I’m currently looking for a Software Engineer Job.
-- 👯 I have completed my internship in "Cloud Computing with AWS services"
+- 🌱 I’m currently working as an IT Operations Associate/Production support Engineer in Conduent Business Services India LLP, Bengaluru, Karnataka.
+- 👯 I have completed my courses in "Cloud Computing with AWS Services- Pralotech Solutions LLP, 
+                                      Software Development Engineer in Test - Qspiders, Data Analytics Essentials - Cisco Networking Academy          "
 - 🤔 I have done a virtual job simulation internship program conducted by PwC on Microsoft Power BI.
-- My skills are : MS Excel, My SQL, Power BI, Tableau, Java programming, Manual Testing, Cloud Computing, AWS
+-  Technical Tools : VMware Horizon, Remote Desktop
+connection, ServiceNow, Excel, Power BI, Tableau
+- DataBase : Microsoft SQL Server, Oracle SQL
+- IT Operations :  Production Support,Troubleshooting, Incident
+and Change Management, Root Cause
+Analysis, System monitoring
+- other skills :  Manual Testing, Salesforce CRM, AWS S3
 - 📫 How to reach me :
 -   contact number: 9739742928    mail to: rahulvenkatesh38536@gmail.com
 -   My LinkedIn Profile [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-v-b391b9250)
