@@ -3,6 +3,15 @@
 Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🌱 I’m currently working as an IT Operations Associate/Production support Engineer in Conduent Business Services India LLP, Bengaluru, Karnataka.
+- As an IT Operations Associate, i have experience in managing production environments and providing
+application support to Operations team. Skilled in incident management,troubleshooting complex issues ensuring seamless
+operations through effective collaboration with cross-functional teams.
+- Provide Level 2 production support, ensuring timely resolution of incidents, service requests, and problem records
+within defined SLAs using ServiceNow.
+– Manage escalation calls and critical SEV1/SEV2 incidents, coordinating with cross-functional teams (Network, Server,
+DBA, Storage, Development) to ensure minimal downtime.
+– Perform testing of client application during Server migrations, patching, and deployment activities, following ITIL and
+compliance standards.
 - 👯 I have completed my courses in "Cloud Computing with AWS Services- Pralotech Solutions LLP, 
                                       Software Development Engineer in Test - Qspiders, Data Analytics Essentials - Cisco Networking Academy          "
 - 🤔 I have done a virtual job simulation internship program conducted by PwC on Microsoft Power BI.
